@@ -12,10 +12,36 @@ Więcej informacji o projekcie oraz zasadach udziału w wolontariacie znajdziesz
 
 ### 1. Sytuacja psów w Polsce
 
-Dane w tym folderze pokazują szerszy kontekst problemu bezdomności psów w Polsce oraz funkcjonowania schronisk i adopcji.
+Dane w tym folderze przedstawiają kontekst problemu bezdomności psów i kotów w Polsce oraz funkcjonowania schronisk dla zwierząt. Dataset obejmuje lata **2005–2024** i zawiera informacje o liczbie zwierząt przyjmowanych do schronisk, liczbie adopcji oraz liczbie schronisk w Polsce. Dane pochodzą z raportów [**Głównego Inspektoratu Weterynarii (GIW)**](https://www.wetgiw.gov.pl/nadzor-weterynaryjny/schroniska-dla-bezdomnych-zwierzat) dotyczących schronisk dla bezdomnych zwierząt.
 
 📂 Lokalizacja:  
-[dane/sytuacja_psow_w_polsce]
+[`dane/sytuacja_psow_w_polsce`](dane/sytuacja_psow_w_polsce)
+
+📄 Pliki:
+
+- `schroniska_zwierzeta_polska.csv`
+- `schroniska_zwierzeta_polska.xlsx`
+
+---
+
+#### Ważne informacje metodologiczne
+
+- Liczba zwierząt przyjętych do schroniska oznacza **liczbę przyjęć**, a nie liczbę unikalnych zwierząt.  
+  Jedno zwierzę mogło zostać przyjęte do schroniska więcej niż jeden raz.
+
+- W kategorii **adopcji** uwzględniane są również **zwroty zwierząt właścicielom**.
+
+- GIW w oficjalnych raportach nie podaje, jaki odsetek adopcji stanowią zwroty właścicielom.
+
+- Całkowita liczba schronisk obejmuje również schroniska dla koni oraz placówki, w których w danym roku nie przebywały zwierzęta.
+
+---
+
+#### Uwagi dotyczące danych
+
+W raportach źródłowych GIW występowały rozbieżności między zestawieniami dla liczby psów w schroniskach (2008, 2019) oraz liczby kotów w schroniskach (2018, 2019); w datasecie przyjęto wartości najczęściej występujące w raportach.
+
+W raporcie z 2016 roku wskazano, że w Polsce funkcjonowało **218 schronisk**. Po zsumowaniu danych w podziale na typy schronisk liczba ta była wyższa o 6. Aby zachować zgodność z raportem, skorygowano liczbę schronisk bez zwierząt tak, aby łączna liczba wynosiła 218.
 
 ---
 
