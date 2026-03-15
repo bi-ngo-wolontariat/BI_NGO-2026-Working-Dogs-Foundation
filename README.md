@@ -89,8 +89,8 @@ Dane dotyczą działań prowadzonych przez **Working Dogs Foundation** od 2023 r
 
 W repozytorium dostępne są również materiały, które mogą zostać wykorzystane przy tworzeniu wizualizacji.
 
-- [zdjęcia psów](https://github.com/bi-ngo-wolontariat/BI_NGO-2026-Working-Dogs-Foundation/tree/6b81c57faef7699d2a339fa3373d488cd3bc33e8/materialy/Zdj%C4%99cia%20ps%C3%B3w%20do%20wykorzystania/Akita)
-- [logotypy i identyfikacja wizualna fundacji](https://github.com/bi-ngo-wolontariat/BI_NGO-2026-Working-Dogs-Foundation/tree/6b81c57faef7699d2a339fa3373d488cd3bc33e8/materialy/Logotypy%20-%20identyfikacja%20wizualna)
+- [zdjęcia psów](https://drive.google.com/drive/folders/1f9ZN0ieHXyxIKA575r3rAfF6hgouSO41?usp=drive_link)
+- [logotypy i identyfikacja wizualna fundacji](https://drive.google.com/drive/folders/1FZVMY9e8IerHz-PP2CZyjZQ9nQjZ9M8o?usp=drive_link)
 
 Zachęcamy do przygotowywania wizualizacji zgodnie z identyfikacją wizualną **Working Dogs Foundation**.  
 W folderze z materiałami znajdziesz logotypy, kolory oraz inne elementy, które mogą pomóc zachować spójność wizualną przygotowanych materiałów.
