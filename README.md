@@ -6,7 +6,7 @@ Dane mogą zostać wykorzystane do analiz i wizualizacji wspierających działan
 
 ## O projekcie BI_NGO
 
-Więcej informacji o projekcie oraz zasadach udziału w wolontariacie znajdziesz na [stronie](https://jezykdanych.pl/bi-ngo-1/).
+Więcej informacji o projekcie oraz zasadach udziału w wolontariacie znajdziesz na [stronie](https://bingo.jezykdanych.pl/).
 
 ## Dane do analizy
 
