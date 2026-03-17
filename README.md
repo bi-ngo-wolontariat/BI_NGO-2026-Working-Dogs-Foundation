@@ -86,8 +86,11 @@ Dane dotyczą działań prowadzonych przez **Working Dogs Foundation** od 2023 r
 
 - `working_dogs_foundation-dane_2023-2025.csv`
 - `working_dogs_foundation-dane_2023-2025.xlsx`
+- `working_dogs_foundation-dane_finansowe.csv`
+- `working_dogs_foundation-dane_finansowe.xlsx`
 - `working_dogs_foundation-wypowiedzi_beneficjentow.csv`
 - `working_dogs_foundation-wypowiedzi_beneficjentow.xlsx`
+- 
 
 ## Materiały pomocnicze
 
