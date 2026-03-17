@@ -79,7 +79,15 @@ Dodatkowo w badaniu Karmimy Psiaki **9% respondentów wskazało, że zwierzę zo
 
 Dane dotyczą działań prowadzonych przez **Working Dogs Foundation** od 2023 roku.
 
-📂 Lokalizacja
+📂 Lokalizacja </br>
+[`dane/dzialalnosc_fundacji`](dane/dzialalnosc_fundacji)
+
+📄 Pliki:
+
+- `working_dogs_foundation-dane_2023-2025.csv`
+- `working_dogs_foundation-dane_2023-2025.xlsx`
+- `working_dogs_foundation-wypowiedzi_beneficjentow.csv`
+- `working_dogs_foundation-wypowiedzi_beneficjentow.xlsx`
 
 ## Materiały pomocnicze
 
@@ -117,3 +125,11 @@ Dla osób zainteresowanych szerszym kontekstem problemu bezdomności zwierząt w
 - **[W 2024 r. w Polsce psy pogryzły ludzi niemal 35 tysięcy razy](https://prawo.gazetaprawna.pl/artykuly/9898018,pogryzienia-przez-psy-100-dziennie-350-tys-rocznie-prawo-wymaga-zmian.html)**  
 
 - **[Raport Najwyższej Izby Kontroli](https://www.nik.gov.pl/aktualnosci/bezdomnosc-zwierzat.html) – Bezdomność zwierząt: wydatki rosną, a problem wciąż nierozwiązany**
+
+-----
+
+## **Powodzenia!**
+
+Czekamy na Twoje wizualizacje 💛
+
+Klaudia & Ela
