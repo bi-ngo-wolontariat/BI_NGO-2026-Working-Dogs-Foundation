@@ -29,9 +29,7 @@ Dane w tym folderze przedstawiają kontekst problemu bezdomności psów i kotów
 - Liczba zwierząt przyjętych do schroniska oznacza **liczbę przyjęć**, a nie liczbę unikalnych zwierząt.  
   Jedno zwierzę mogło zostać przyjęte do schroniska więcej niż jeden raz.
 
-- W kategorii **adopcji** uwzględniane są również **zwroty zwierząt właścicielom**.
-
-- GIW w oficjalnych raportach nie podaje, jaki odsetek adopcji stanowią zwroty właścicielom.
+- W kategorii **adopcji** uwzględniane są również **zwroty zwierząt właścicielom**. GIW w oficjalnych raportach nie podaje, jaki odsetek adopcji stanowią zwroty właścicielom.
 
 - Całkowita liczba schronisk obejmuje również schroniska dla koni oraz placówki, w których w danym roku nie przebywały zwierzęta.
 
@@ -40,8 +38,6 @@ Dane w tym folderze przedstawiają kontekst problemu bezdomności psów i kotów
 #### Uwagi dotyczące danych
 
 W raportach źródłowych GIW występowały rozbieżności między zestawieniami dla liczby psów w schroniskach (2008, 2019) oraz liczby kotów w schroniskach (2018, 2019); w datasecie przyjęto wartości najczęściej występujące w raportach.
-
-W raporcie z 2016 roku wskazano, że w Polsce funkcjonowało **218 schronisk**. Po zsumowaniu danych w podziale na typy schronisk liczba ta była wyższa o 6. Aby zachować zgodność z raportem, skorygowano liczbę schronisk bez zwierząt tak, aby łączna liczba wynosiła 218.
 
 ---
 
