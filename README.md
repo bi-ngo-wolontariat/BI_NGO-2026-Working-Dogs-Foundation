@@ -1,6 +1,6 @@
 # BI_NGO 2026 – Working Dogs Foundation
 
-Repozytorium zawiera dane udostępnione w ramach projektu wolontariatu analitycznego **BI_NGO 2026**, realizowanego we współpracy z **Working Dogs Foundation**.
+Repozytorium zawiera dane udostępnione w ramach projektu wolontariatu analitycznego **BI_NGO 2026**, realizowanego we współpracy z [**Working Dogs Foundation**](https://workingdogs.pl/).
 
 Dane mogą zostać wykorzystane do analiz i wizualizacji wspierających działania edukacyjne, informacyjne i promocyjne fundacji.
 
