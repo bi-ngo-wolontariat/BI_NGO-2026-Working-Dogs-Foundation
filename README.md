@@ -77,7 +77,8 @@ Dodatkowo w badaniu Karmimy Psiaki **9% respondentów wskazało, że zwierzę zo
 
 ### 2. Dane Working Dogs Foundation
 
-Dane dotyczą działań prowadzonych przez **Working Dogs Foundation** od 2023 roku. Zestaw obejmuje informacje o aktywnościach fundacji, ich skali oraz zaangażowaniu odbiorców i darczyńców, a także dane finansowe i wypowiedzi beneficjentów. Dane finansowe pochodzą ze sprawozdań finansowych fundacji za lata 2023 i 2024 (dostępnych [`dane/dzialalnosc_fundacji`](dane/dzialalnosc_fundacji)) oraz estymacji za 2025 rok, które mogą ulec jeszcze drobnym zmianom. Zestaw umożliwia analizę rozwoju fundacji w czasie oraz ocenę efektywności prowadzonych działań.
+Dane dotyczą działań prowadzonych przez **Working Dogs Foundation** od 2023 roku. Zestaw obejmuje informacje o aktywnościach fundacji, ich skali oraz zaangażowaniu odbiorców i darczyńców, a także dane finansowe i wypowiedzi beneficjentów. </br>
+Dane finansowe pochodzą ze sprawozdań finansowych fundacji za lata 2023 i 2024 (dostępnych [`dane/dzialalnosc_fundacji`](dane/dzialalnosc_fundacji)) oraz estymacji za 2025 rok, które mogą ulec jeszcze drobnym zmianom. Zestaw umożliwia analizę rozwoju fundacji w czasie oraz ocenę efektywności prowadzonych działań.
 
 📂 Lokalizacja </br>
 [`dane/dzialalnosc_fundacji`](dane/dzialalnosc_fundacji)
