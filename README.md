@@ -19,8 +19,14 @@ Dane w tym folderze przedstawiają kontekst problemu bezdomności psów i kotów
 
 📄 Pliki:
 
-- `schroniska_zwierzeta_polska.csv`
-- `schroniska_zwierzeta_polska.xlsx`
+- `01-schroniska_zwierzeta_polska.csv`
+- `01-schroniska_zwierzeta_polska.xlsx`
+- `02-adopcje_ze_schronisk.csv`
+- `02-adopcje_ze_schronisk.xlsx`
+- `03-populacja_psow_w_polsce.csv`
+- `03-populacja_psow_w_polsce.xlsx`
+- `04-psy_w_gospodarstwach_domowych.csv`
+- `04-psy_w_gospodarstwach_domowych.xlsx`
 
 ---
 
