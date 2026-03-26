@@ -31,11 +31,16 @@ Dane w tym folderze przedstawiają kontekst problemu bezdomności psów i kotów
 ---
 
 #### Ważne informacje metodologiczne
+Poniższe informacje pomagają poprawnie interpretować dane i uniknąć najczęstszych błędów analitycznych:
 
 - Liczba zwierząt przyjętych do schroniska oznacza **liczbę przyjęć**, a nie liczbę unikalnych zwierząt.  
   Jedno zwierzę mogło zostać przyjęte do schroniska więcej niż jeden raz.
 
+- **Liczba psów w schroniskach – stan na koniec roku** oznacza liczbę zwierząt, które pozostały w schroniskach na koniec danego roku. Wartość ta to różnica między liczbą wszystkich zwierząt, które przebywały w schroniskach w ciągu roku, a liczbą tych, które w tym czasie je opuściły (np. w wyniku adopcji, eutanazji, padnięcia lub ucieczki).
+
 - W kategorii **adopcji** uwzględniane są również **zwroty zwierząt właścicielom**. GIW w oficjalnych raportach nie podaje, jaki odsetek adopcji stanowią zwroty właścicielom.
+
+- **Liczba schronisk z psami** obejmuje zarówno schroniska tylko dla psów, jak i schroniska, w których oprócz psów przebywały także inne zwierzęta. **Pozostałe schroniska** to placówki, w których nie było psów lub nie przebywały żadne zwierzęta..
 
 - Całkowita liczba schronisk obejmuje również schroniska dla koni oraz placówki, w których w danym roku nie przebywały zwierzęta.
 
